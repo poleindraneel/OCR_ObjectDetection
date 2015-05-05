@@ -1,0 +1,15 @@
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\obj\Debug\ObjectDetection.csprojResolveAssemblyReference.cache
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\obj\Debug\ObjectDetection.Form1.resources
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\obj\Debug\ObjectDetection.Properties.Resources.resources
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\obj\Debug\ObjectDetection.csproj.GenerateResource.Cache
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\bin\Debug\ObjectDetection.exe.config
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\bin\Debug\ObjectDetection.exe
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\bin\Debug\ObjectDetection.pdb
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\bin\Debug\AForge.dll
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\bin\Debug\AForge.Imaging.dll
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\bin\Debug\AForge.Math.dll
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\bin\Debug\AForge.xml
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\bin\Debug\AForge.Imaging.xml
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\bin\Debug\AForge.Math.xml
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\obj\Debug\ObjectDetection.exe
+C:\Users\Indraneel\documents\visual studio 2013\Projects\ObjectDetection\ObjectDetection\obj\Debug\ObjectDetection.pdb
